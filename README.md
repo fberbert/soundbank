@@ -32,36 +32,6 @@ Here is the basic structure of the repository:
   - `house/`: Sounds of household items.
   - `humans/`: Sounds of human actions and reactions.
 
-## Como Usar
-
-1. Clone este repositório para o seu local de trabalho:
-
-    ```sh
-    git clone https://github.com/seu-usuario/seu-repositorio.git
-    ```
-
-2. Navegue até o diretório de sons:
-
-    ```sh
-    cd seu-repositorio/sounds
-    ```
-
-3. Use os sons em seus projetos conforme necessário.
-
-## Licença
-
-Os sons neste repositório são para uso pessoal e não comercial. Se desejar usar qualquer som para fins comerciais, por favor, entre em contato comigo para obter permissão.
-
-## Contato
-
-Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato:
-
-- Email: [seu-email@example.com](mailto:seu-email@example.com)
-- GitHub: [seu-usuario](https://github.com/seu-usuario)
-
-Obrigado por visitar o meu repositório de efeitos sonoros!
-
-
 ## How to Use
 
 1. Clone this repository to your workspace:
