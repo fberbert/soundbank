@@ -20,17 +20,17 @@ This repository contains a variety of sound effects that I have collected over t
 
 Here is the basic structure of the repository:
 
-- `README.md`: Este arquivo.
-- `LICENCE`: Arquivo de licença.
-- `sounds/`: Diretório contendo todos os arquivos de som, organizados em subdiretórios por categoria.
-  - `animals/`: Sons de animais.
-  - `guns/`: Sons de armas.
-  - `fantasy/`: Sons relacionados a temas de fantasia.
-  - `monsters/`: Sons de vários monstros.
-  - `machines/`: Sons de máquinas e dispositivos mecânicos.
-  - `magic/`: Sons relacionados à magia.
-  - `house/`: Sons de itens domésticos.
-  - `humans/`: Sons de ações e reações humanas.
+- `README.md`: This file.
+- `LICENSE`: License file.
+- `sounds/`: Directory containing all sound files, organized into subdirectories by category.
+  - `animals/`: Animal sounds.
+  - `guns/`: Gun sounds.
+  - `fantasy/`: Sounds related to fantasy themes.
+  - `monsters/`: Sounds of various monsters.
+  - `machines/`: Sounds of machines and mechanical devices.
+  - `magic/`: Sounds related to magic.
+  - `house/`: Sounds of household items.
+  - `humans/`: Sounds of human actions and reactions.
 
 ## Como Usar
 
