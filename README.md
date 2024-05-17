@@ -20,19 +20,47 @@ This repository contains a variety of sound effects that I have collected over t
 
 Here is the basic structure of the repository:
 
-```
-/
-|__ README.md
-|__ LICENCE
-| |__ animals/ - sound effects of animals
-| |__ guns/ - sound effects of guns
-| |__ fantasy/ - 
-| |__ monsters/
-| |__ machines/
-| |__ magic/
-| |__ house/
-| |__ humans/
-```
+- `README.md`: Este arquivo.
+- `LICENCE`: Arquivo de licença.
+- `sounds/`: Diretório contendo todos os arquivos de som, organizados em subdiretórios por categoria.
+  - `animals/`: Sons de animais.
+  - `guns/`: Sons de armas.
+  - `fantasy/`: Sons relacionados a temas de fantasia.
+  - `monsters/`: Sons de vários monstros.
+  - `machines/`: Sons de máquinas e dispositivos mecânicos.
+  - `magic/`: Sons relacionados à magia.
+  - `house/`: Sons de itens domésticos.
+  - `humans/`: Sons de ações e reações humanas.
+
+## Como Usar
+
+1. Clone este repositório para o seu local de trabalho:
+
+    ```sh
+    git clone https://github.com/seu-usuario/seu-repositorio.git
+    ```
+
+2. Navegue até o diretório de sons:
+
+    ```sh
+    cd seu-repositorio/sounds
+    ```
+
+3. Use os sons em seus projetos conforme necessário.
+
+## Licença
+
+Os sons neste repositório são para uso pessoal e não comercial. Se desejar usar qualquer som para fins comerciais, por favor, entre em contato comigo para obter permissão.
+
+## Contato
+
+Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato:
+
+- Email: [seu-email@example.com](mailto:seu-email@example.com)
+- GitHub: [seu-usuario](https://github.com/seu-usuario)
+
+Obrigado por visitar o meu repositório de efeitos sonoros!
+
 
 ## How to Use
 
