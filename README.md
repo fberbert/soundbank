@@ -48,6 +48,16 @@ Here is the basic structure of the repository:
 
 3. Use the sounds in your projects as needed.
 
+## Online Soundbank
+
+You can also access these sounds online at [https://soundbank.automatizando.dev/](https://soundbank.automatizando.dev/).
+
+All you need is to complete the URL with the sound you want to play. For example, to play the sound of a cat, you can use the following URL:
+
+```sh
+https://soundbank.automatizando.dev/animals/cat.mp3
+```
+
 ## License
 
 The sounds in this repository are for personal and non-commercial use only. If you wish to use any sound for commercial purposes, please contact me for permission.
@@ -58,7 +68,7 @@ The sounds in this repository are for personal and non-commercial use only. If y
 
 If you have any questions or suggestions, feel free to get in touch:
 
-- Email: [sou@mestrefabio.com](mailto:sou@mestrefabio.com)
+- Email: [contato@automatizando.dev](mailto:contato@automatizando.dev)
 - GitHub: [fberbert](https://github.com/fberbert)
 
 Thank you for visiting my sound effects repository!
